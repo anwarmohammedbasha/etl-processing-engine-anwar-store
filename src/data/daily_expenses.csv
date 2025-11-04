@@ -1,0 +1,216 @@
+expense_id,expense_date,category,description,amount
+EXP-20250913-0001,13-09-2025,Supplies,To-go bags,74.49
+EXP-20250913-0002,13-09-2025,Supplies,To-go bags,246.18
+EXP-20250913-0003,13-09-2025,Maintenance,AC service,780.27
+EXP-20250913-0004,13-09-2025,Rent,Monthly store rent,137.69
+EXP-20250914-0005,14-09-2025,Misc,Bank fees,127.94
+EXP-20250914-0006,14-09-2025,Misc,Credit card fees,166.92
+EXP-20250914-0007,14-09-2025,Misc,Staff celebration,52.5
+EXP-20250914-0008,14-09-2025,Misc,Credit card fees,115.56
+EXP-20250914-0009,14-09-2025,Supplies,To-go bags,64.29
+EXP-20250914-0010,14-09-2025,Insurance,Liability insurance payment,891.55
+EXP-20250914-0011,14-09-2025,Misc,Staff celebration,82.17
+EXP-20250915-0012,15-09-2025,Insurance,Liability insurance payment,626.94
+EXP-20250915-0013,15-09-2025,Maintenance,Plumbing,1081.11
+EXP-20250915-0014,15-09-2025,Utilities,Electricity bill,443.42
+EXP-20250915-0015,15-09-2025,Misc,Staff celebration,64.97
+EXP-20250915-0016,15-09-2025,Supplies,To-go bags,14.75
+EXP-20250915-0017,15-09-2025,Misc,Staff celebration,163.62
+EXP-20250916-0018,16-09-2025,Insurance,Liability insurance payment,218.41
+EXP-20250916-0019,16-09-2025,Maintenance,Equipment repair,603.89
+EXP-20250916-0020,16-09-2025,Marketing,Social media ads,424.05
+EXP-20250916-0021,16-09-2025,Rent,Monthly store rent,108.84
+EXP-20250916-0022,16-09-2025,Rent,Monthly store rent,92.29
+EXP-20250916-0023,16-09-2025,Misc,Credit card fees,150.75
+EXP-20250916-0024,16-09-2025,Marketing,Promotional event,774.82
+EXP-20250917-0025,17-09-2025,Supplies,Office supplies,74.69
+EXP-20250917-0026,17-09-2025,Misc,Staff celebration,201.61
+EXP-20250917-0027,17-09-2025,Utilities,Water bill,458.23
+EXP-20250917-0028,17-09-2025,Supplies,Cleaning supplies,173.94
+EXP-20250918-0029,18-09-2025,Rent,Monthly store rent,78.71
+EXP-20250918-0030,18-09-2025,Marketing,Local flyer distribution,44.49
+EXP-20250918-0031,18-09-2025,Rent,Monthly store rent,141.18
+EXP-20250918-0032,18-09-2025,Insurance,Liability insurance payment,474.47
+EXP-20250919-0033,19-09-2025,Insurance,Liability insurance payment,170.77
+EXP-20250919-0034,19-09-2025,Rent,Monthly store rent,129.44
+EXP-20250919-0035,19-09-2025,Misc,Staff celebration,133.8
+EXP-20250920-0036,20-09-2025,Maintenance,Equipment repair,780.14
+EXP-20250920-0037,20-09-2025,Marketing,Social media ads,615.94
+EXP-20250920-0038,20-09-2025,Rent,Monthly store rent,99.27
+EXP-20250920-0039,20-09-2025,Supplies,Cleaning supplies,271.03
+EXP-20250920-0040,20-09-2025,Supplies,To-go bags,252.67
+EXP-20250920-0041,20-09-2025,Insurance,Liability insurance payment,570.02
+EXP-20250921-0042,21-09-2025,Insurance,Liability insurance payment,142.23
+EXP-20250921-0043,21-09-2025,Insurance,Liability insurance payment,950.7
+EXP-20250921-0044,21-09-2025,Rent,Monthly store rent,150.93
+EXP-20250921-0045,21-09-2025,Maintenance,Equipment repair,539.01
+EXP-20250921-0046,21-09-2025,Maintenance,Plumbing,591.39
+EXP-20250922-0047,22-09-2025,Maintenance,AC service,593.36
+EXP-20250922-0048,22-09-2025,Supplies,Cleaning supplies,72.1
+EXP-20250922-0049,22-09-2025,Insurance,Liability insurance payment,351.37
+EXP-20250922-0050,22-09-2025,Supplies,To-go bags,39.68
+EXP-20250922-0051,22-09-2025,Insurance,Liability insurance payment,571.11
+EXP-20250922-0052,22-09-2025,Utilities,Water bill,116.42
+EXP-20250923-0053,23-09-2025,Marketing,Local flyer distribution,174.27
+EXP-20250923-0054,23-09-2025,Insurance,Liability insurance payment,152.46
+EXP-20250923-0055,23-09-2025,Misc,Credit card fees,32.28
+EXP-20250924-0056,24-09-2025,Rent,Monthly store rent,76.95
+EXP-20250924-0057,24-09-2025,Insurance,Liability insurance payment,354.53
+EXP-20250924-0058,24-09-2025,Rent,Monthly store rent,58.24
+EXP-20250924-0059,24-09-2025,Utilities,Water bill,312.11
+EXP-20250924-0060,24-09-2025,Maintenance,AC service,372.67
+EXP-20250924-0061,24-09-2025,Supplies,Office supplies,183.72
+EXP-20250924-0062,24-09-2025,Insurance,Liability insurance payment,561.78
+EXP-20250925-0063,25-09-2025,Utilities,Water bill,291.16
+EXP-20250925-0064,25-09-2025,Rent,Monthly store rent,77.81
+EXP-20250925-0065,25-09-2025,Marketing,Local flyer distribution,335.75
+EXP-20250925-0066,25-09-2025,Utilities,Electricity bill,531.48
+EXP-20250925-0067,25-09-2025,Supplies,Office supplies,128.54
+EXP-20250925-0068,25-09-2025,Maintenance,Equipment repair,320.48
+EXP-20250926-0069,26-09-2025,Maintenance,Equipment repair,858
+EXP-20250926-0070,26-09-2025,Marketing,Social media ads,13.56
+EXP-20250926-0071,26-09-2025,Misc,Credit card fees,127.42
+EXP-20250926-0072,26-09-2025,Rent,Monthly store rent,106.57
+EXP-20250926-0073,26-09-2025,Marketing,Social media ads,196.13
+EXP-20250927-0074,27-09-2025,Rent,Monthly store rent,47.36
+EXP-20250927-0075,27-09-2025,Utilities,Water bill,208.97
+EXP-20250927-0076,27-09-2025,Utilities,Water bill,194.47
+EXP-20250928-0077,28-09-2025,Rent,Monthly store rent,93.67
+EXP-20250928-0078,28-09-2025,Supplies,To-go bags,129.4
+EXP-20250928-0079,28-09-2025,Insurance,Liability insurance payment,284.38
+EXP-20250929-0080,29-09-2025,Utilities,Electricity bill,263.16
+EXP-20250929-0081,29-09-2025,Misc,Credit card fees,35.36
+EXP-20250929-0082,29-09-2025,Rent,Monthly store rent,51.26
+EXP-20250929-0083,29-09-2025,Insurance,Liability insurance payment,342.61
+EXP-20250930-0084,30-09-2025,Supplies,Office supplies,64.66
+EXP-20250930-0085,30-09-2025,Misc,Credit card fees,100.33
+EXP-20250930-0086,30-09-2025,Maintenance,Plumbing,330.41
+EXP-20251001-0087,01-10-2025,Supplies,Cleaning supplies,245.13
+EXP-20251001-0088,01-10-2025,Maintenance,AC service,489.58
+EXP-20251001-0089,01-10-2025,Supplies,Office supplies,299.98
+EXP-20251001-0090,01-10-2025,Supplies,Cleaning supplies,68.11
+EXP-20251001-0091,01-10-2025,Rent,Monthly store rent,3033.85
+EXP-20251002-0092,02-10-2025,Misc,Bank fees,78.99
+EXP-20251002-0093,02-10-2025,Misc,Bank fees,160.75
+EXP-20251002-0094,02-10-2025,Insurance,Liability insurance payment,915.89
+EXP-20251002-0095,02-10-2025,Marketing,Promotional event,197.23
+EXP-20251003-0096,03-10-2025,Insurance,Liability insurance payment,328.61
+EXP-20251003-0097,03-10-2025,Utilities,Water bill,269.55
+EXP-20251003-0098,03-10-2025,Insurance,Liability insurance payment,675.7
+EXP-20251003-0099,03-10-2025,Insurance,Liability insurance payment,473.87
+EXP-20251003-0100,03-10-2025,Misc,Staff celebration,87.82
+EXP-20251003-0101,03-10-2025,Insurance,Liability insurance payment,1009.13
+EXP-20251003-0102,03-10-2025,Utilities,Gas bill,371.51
+EXP-20251004-0103,04-10-2025,Utilities,Water bill,57.4
+EXP-20251004-0104,04-10-2025,Misc,Staff celebration,17.81
+EXP-20251004-0105,04-10-2025,Marketing,Promotional event,600.16
+EXP-20251004-0106,04-10-2025,Marketing,Local flyer distribution,487.91
+EXP-20251004-0107,04-10-2025,Maintenance,Plumbing,546.72
+EXP-20251004-0108,04-10-2025,Insurance,Liability insurance payment,703.92
+EXP-20251004-0109,04-10-2025,Insurance,Liability insurance payment,253.08
+EXP-20251005-0110,05-10-2025,Insurance,Liability insurance payment,338.28
+EXP-20251005-0111,05-10-2025,Marketing,Local flyer distribution,332.8
+EXP-20251005-0112,05-10-2025,Utilities,Electricity bill,272.6
+EXP-20251005-0113,05-10-2025,Misc,Staff celebration,48.18
+EXP-20251005-0114,05-10-2025,Utilities,Gas bill,33.9
+EXP-20251006-0115,06-10-2025,Marketing,Local flyer distribution,309.97
+EXP-20251006-0116,06-10-2025,Insurance,Liability insurance payment,819.28
+EXP-20251006-0117,06-10-2025,Marketing,Social media ads,335.41
+EXP-20251006-0118,06-10-2025,Maintenance,Plumbing,208.5
+EXP-20251006-0119,06-10-2025,Utilities,Gas bill,53.53
+EXP-20251007-0120,07-10-2025,Rent,Monthly store rent,54.16
+EXP-20251007-0121,07-10-2025,Utilities,Electricity bill,368.2
+EXP-20251007-0122,07-10-2025,Rent,Monthly store rent,91.4
+EXP-20251007-0123,07-10-2025,Supplies,Cleaning supplies,93.82
+EXP-20251007-0124,07-10-2025,Rent,Monthly store rent,69.14
+EXP-20251007-0125,07-10-2025,Misc,Staff celebration,10.86
+EXP-20251008-0126,08-10-2025,Supplies,Office supplies,258.47
+EXP-20251008-0127,08-10-2025,Insurance,Liability insurance payment,1008.33
+EXP-20251008-0128,08-10-2025,Rent,Monthly store rent,103.96
+EXP-20251008-0129,08-10-2025,Misc,Credit card fees,185.32
+EXP-20251008-0130,08-10-2025,Utilities,Gas bill,311.13
+EXP-20251009-0131,09-10-2025,Rent,Monthly store rent,136.19
+EXP-20251009-0132,09-10-2025,Misc,Bank fees,50.04
+EXP-20251009-0133,09-10-2025,Supplies,Cleaning supplies,105.82
+EXP-20251009-0134,09-10-2025,Marketing,Local flyer distribution,631.3
+EXP-20251009-0135,09-10-2025,Maintenance,Plumbing,395.42
+EXP-20251010-0136,10-10-2025,Supplies,Cleaning supplies,144.63
+EXP-20251010-0137,10-10-2025,Misc,Staff celebration,12.42
+EXP-20251010-0138,10-10-2025,Misc,Staff celebration,184.05
+EXP-20251010-0139,10-10-2025,Utilities,Gas bill,439.8
+EXP-20251010-0140,10-10-2025,Misc,Bank fees,28.82
+EXP-20251010-0141,10-10-2025,Rent,Monthly store rent,131.55
+EXP-20251011-0142,11-10-2025,Supplies,Cleaning supplies,229.23
+EXP-20251011-0143,11-10-2025,Maintenance,Plumbing,232.93
+EXP-20251011-0144,11-10-2025,Insurance,Liability insurance payment,387.47
+EXP-20251011-0145,11-10-2025,Marketing,Social media ads,381.37
+EXP-20251012-0146,12-10-2025,Marketing,Local flyer distribution,62.91
+EXP-20251012-0147,12-10-2025,Rent,Monthly store rent,147.83
+EXP-20251012-0148,12-10-2025,Maintenance,Equipment repair,1007.24
+EXP-20251012-0149,12-10-2025,Maintenance,Plumbing,27.7
+EXP-20251012-0150,12-10-2025,Marketing,Social media ads,124.34
+EXP-20251013-0151,13-10-2025,Marketing,Social media ads,615.83
+EXP-20251013-0152,13-10-2025,Supplies,To-go bags,57.78
+EXP-20251013-0153,13-10-2025,Misc,Staff celebration,118.34
+EXP-20251013-0154,13-10-2025,Misc,Credit card fees,35.23
+EXP-20251013-0155,13-10-2025,Rent,Monthly store rent,148.5
+EXP-20251014-0156,14-10-2025,Supplies,Cleaning supplies,80.81
+EXP-20251014-0157,14-10-2025,Maintenance,Plumbing,853.86
+EXP-20251014-0158,14-10-2025,Insurance,Liability insurance payment,320.84
+EXP-20251015-0159,15-10-2025,Insurance,Liability insurance payment,853.36
+EXP-20251015-0160,15-10-2025,Supplies,Office supplies,172.69
+EXP-20251015-0161,15-10-2025,Maintenance,AC service,1010.6
+EXP-20251015-0162,15-10-2025,Maintenance,AC service,658.94
+EXP-20251015-0163,15-10-2025,Insurance,Liability insurance payment,285.43
+EXP-20251016-0164,16-10-2025,Rent,Monthly store rent,105.14
+EXP-20251016-0165,16-10-2025,Supplies,Cleaning supplies,266.97
+EXP-20251016-0166,16-10-2025,Supplies,Cleaning supplies,294.09
+EXP-20251016-0167,16-10-2025,Utilities,Gas bill,154.22
+EXP-20251017-0168,17-10-2025,Misc,Credit card fees,169.99
+EXP-20251017-0169,17-10-2025,Insurance,Liability insurance payment,257.32
+EXP-20251017-0170,17-10-2025,Supplies,Office supplies,23.04
+EXP-20251017-0171,17-10-2025,Rent,Monthly store rent,131.86
+EXP-20251017-0172,17-10-2025,Supplies,Office supplies,200.41
+EXP-20251017-0173,17-10-2025,Utilities,Electricity bill,221.66
+EXP-20251017-0174,17-10-2025,Rent,Monthly store rent,72.81
+EXP-20251018-0175,18-10-2025,Insurance,Liability insurance payment,312.57
+EXP-20251018-0176,18-10-2025,Maintenance,AC service,116.14
+EXP-20251018-0177,18-10-2025,Maintenance,AC service,521.78
+EXP-20251019-0178,19-10-2025,Supplies,To-go bags,245.23
+EXP-20251019-0179,19-10-2025,Misc,Credit card fees,40.8
+EXP-20251019-0180,19-10-2025,Misc,Credit card fees,128.26
+EXP-20251019-0181,19-10-2025,Rent,Monthly store rent,61.98
+EXP-20251019-0182,19-10-2025,Supplies,Office supplies,172.52
+EXP-20251020-0183,20-10-2025,Marketing,Social media ads,180.12
+EXP-20251020-0184,20-10-2025,Supplies,Office supplies,105.23
+EXP-20251020-0185,20-10-2025,Maintenance,Plumbing,129.66
+EXP-20251020-0186,20-10-2025,Maintenance,Plumbing,527.65
+EXP-20251020-0187,20-10-2025,Marketing,Local flyer distribution,564.93
+EXP-20251020-0188,20-10-2025,Misc,Staff celebration,147.97
+EXP-20251021-0189,21-10-2025,Supplies,To-go bags,138.72
+EXP-20251021-0190,21-10-2025,Marketing,Promotional event,330.62
+EXP-20251021-0191,21-10-2025,Marketing,Social media ads,318.2
+EXP-20251021-0192,21-10-2025,Utilities,Water bill,120.45
+EXP-20251021-0193,21-10-2025,Utilities,Water bill,197.52
+EXP-20251021-0194,21-10-2025,Supplies,Office supplies,23.88
+EXP-20251022-0195,22-10-2025,Misc,Credit card fees,121.07
+EXP-20251022-0196,22-10-2025,Marketing,Local flyer distribution,338.85
+EXP-20251022-0197,22-10-2025,Misc,Staff celebration,103.5
+EXP-20251023-0198,23-10-2025,Marketing,Local flyer distribution,412.87
+EXP-20251023-0199,23-10-2025,Supplies,To-go bags,275.23
+EXP-20251023-0200,23-10-2025,Maintenance,Equipment repair,813.13
+EXP-20251023-0201,23-10-2025,Marketing,Local flyer distribution,550.38
+EXP-20251024-0202,24-10-2025,Maintenance,Plumbing,383.33
+EXP-20251024-0203,24-10-2025,Maintenance,AC service,235.03
+EXP-20251024-0204,24-10-2025,Utilities,Electricity bill,403.77
+EXP-20251024-0205,24-10-2025,Rent,Monthly store rent,156.82
+EXP-20251025-0206,25-10-2025,Marketing,Local flyer distribution,162.1
+EXP-20251025-0207,25-10-2025,Insurance,Liability insurance payment,972.46
+EXP-20251025-0208,25-10-2025,Marketing,Promotional event,703.78
+EXP-20251025-0209,25-10-2025,Utilities,Electricity bill,86.23
+EXP-20251026-0210,26-10-2025,Rent,Monthly store rent,103.59
+EXP-20251026-0211,26-10-2025,Supplies,To-go bags,97.22
+EXP-20251026-0212,26-10-2025,Supplies,To-go bags,202.08
+EXP-20251026-0213,26-10-2025,Utilities,Electricity bill,369.95
+EXP-20251026-0214,26-10-2025,Marketing,Local flyer distribution,740.5
+EXP-20251026-0215,26-10-2025,Misc,Staff celebration,152.22
