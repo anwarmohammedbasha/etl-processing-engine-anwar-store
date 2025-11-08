@@ -1,4 +1,5 @@
-from models.extrfun import e_t, load
+from models.extrfun import extract, transform, load
 
-data = e_t(path="./data/daily_expenses.csv")
-load(data)
+data = extract(path="./data/daily_expenses.csv")
+transformed_data = transform(data)
+load(transformed_data)
