@@ -1,7 +1,2 @@
-# sample_repo
-its just a sample repo
-its a etl sample project 
-clone the repo
-create the virtual env
-install the requirements.txt
-run main file
+# ETL Task
+Task Details: https://www.notion.so/anwarmohammedbasha/Task-Board-291c34fe838f80eaa089f91551e29a10
