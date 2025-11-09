@@ -1,0 +1,101 @@
+product_id,product_name,brand,category,origin,is_wholesale_exclusive,is_retail_exclusive,price_per_unit_wholesale_INR,units_per_box_wholesale,price_per_box_wholesale_INR,retail_markup_percentage,anwar_retail_selling_price_per_unit_INR
+P001,Kellogg's Chocolates Pack 1,Kellogg's,chocolates,Kashmir,False,False,74.4,20,1472.77,15.12,85.65
+P002,Royal Biscuits Pack 2,Royal,biscuits,Tamil Nadu,False,False,39.26,6,231.34,20.93,47.48
+P003,MDH Dry Fruits Pack 3,MDH,dry fruits,Kashmir,False,False,184.49,50,9182.35,39.46,257.29
+P004,LocalFarm Honey Pack 4,LocalFarm,honey,Kashmir,False,False,282.06,50,14156.84,17.77,332.18
+P005,Royal Spices Pack 5,Royal,spices,Goa,False,False,42.68,10,428.99,27.2,54.29
+P006,LocalFarm Snacks Pack 6,LocalFarm,snacks,Goa,False,False,29.35,100,2986.47,58.66,46.57
+P007,Royal Beverages Pack 7,Royal,beverages,Local India,False,False,113.62,30,3478.19,45.23,165.01
+P008,Maggi Cleaning Supplies Pack 8,Maggi,cleaning supplies,Kashmir,False,False,104.82,24,2638.86,52.77,160.13
+P009,Nestle Personal Care Pack 9,Nestle,personal care,Kashmir,False,False,88.69,30,2637.78,27.76,113.31
+P010,Tata Chocolates Pack 10,Tata,chocolates,Kashmir,False,False,108.96,20,2160.54,28.97,140.53
+P011,Britannia Biscuits Pack 11,Britannia,biscuits,Tamil Nadu,False,False,42.65,6,254.88,11.61,47.6
+P012,Royal Dry Fruits Pack 12,Royal,dry fruits,Goa,False,False,187.7,30,5602.19,34.96,253.32
+P013,Sunfeast Honey Pack 13,Sunfeast,honey,Local India,False,False,165.21,20,3410.43,36.95,226.26
+P014,Nestle Spices Pack 14,Nestle,spices,Tamil Nadu,False,False,100.64,50,5058.87,59.87,160.89
+P015,MDH Snacks Pack 15,MDH,snacks,Kerala,False,False,53.65,6,334.87,17.64,63.11
+P016,LocalFarm Beverages Pack 16,LocalFarm,beverages,Kerala,False,False,127.49,10,1283.74,39.79,178.22
+P017,MDH Cleaning Supplies Pack 17,MDH,cleaning supplies,Local India,False,False,108.2,6,667.13,15.73,125.22
+P018,LocalFarm Personal Care Pack 18,LocalFarm,personal care,Tamil Nadu,False,False,87.42,30,2590.63,31.74,115.17
+P019,MDH Chocolates Pack 19,MDH,chocolates,Goa,False,False,121.15,10,1261.09,24.92,151.34
+P020,Tata Biscuits Pack 20,Tata,biscuits,Tamil Nadu,False,False,25.16,30,779.99,36.97,34.46
+P021,Dubai Delights Dry Fruits Pack 21,Dubai Delights,dry fruits,Tamil Nadu,False,False,132.15,30,4020.81,15.59,152.75
+P022,Britannia Honey Pack 22,Britannia,honey,Goa,False,False,120.51,10,1188.22,34.3,161.84
+P023,LocalFarm Spices Pack 23,LocalFarm,spices,Kashmir,False,False,74.35,12,882.37,33.76,99.45
+P024,Sunfeast Snacks Pack 24,Sunfeast,snacks,Tamil Nadu,False,False,41.31,50,2163.62,56.45,64.63
+P025,Kellogg's Beverages Pack 25,Kellogg's,beverages,Kerala,False,False,87.67,30,2658.16,35.88,119.13
+P026,Britannia Cleaning Supplies Pack 26,Britannia,cleaning supplies,Kashmir,False,False,104.36,30,3072.79,37.7,143.7
+P027,Britannia Personal Care Pack 27,Britannia,personal care,Tamil Nadu,False,False,57.82,6,345.54,55.27,89.78
+P028,MDH Chocolates Pack 28,MDH,chocolates,Kashmir,False,False,70.85,100,7049.55,16.62,82.63
+P029,Tata Biscuits Pack 29,Tata,biscuits,Tamil Nadu,False,False,35.02,100,3629.91,19.52,41.86
+P030,Hershey Dry Fruits Pack 30,Hershey,dry fruits,Dubai,False,False,243.82,100,25368.7,12.71,274.81
+P031,AnwarBrand Honey Pack 31,AnwarBrand,honey,Kashmir,False,False,194.97,30,6059.91,15.46,225.11
+P032,Britannia Spices Pack 32,Britannia,spices,Kerala,False,False,74.61,12,903.85,23.93,92.46
+P033,Singapore Foods Inc Snacks Pack 33,Singapore Foods Inc,snacks,Kerala,False,False,76.86,100,7967.01,52.8,117.44
+P034,AnwarBrand Beverages Pack 34,AnwarBrand,beverages,Kashmir,False,False,124.43,6,782.29,56.32,194.51
+P035,Sunfeast Cleaning Supplies Pack 35,Sunfeast,cleaning supplies,Kerala,False,False,130.52,100,12986.25,30.05,169.74
+P036,Sunfeast Personal Care Pack 36,Sunfeast,personal care,Kashmir,False,False,100.2,50,5002.81,49.2,149.5
+P037,Kellogg's Chocolates Pack 37,Kellogg's,chocolates,Local India,False,False,139.9,100,13861.79,24.84,174.65
+P038,Tata Biscuits Pack 38,Tata,biscuits,Kashmir,False,False,44.49,6,275.58,12.86,50.21
+P039,Dubai Delights Dry Fruits Pack 39,Dubai Delights,dry fruits,Tamil Nadu,False,False,357.12,12,4216.79,35.39,483.5
+P040,Tata Honey Pack 40,Tata,honey,Kashmir,False,False,122.68,20,2473.88,57.08,192.71
+P041,Britannia Spices Pack 41,Britannia,spices,Tamil Nadu,False,False,77.68,6,476.97,30.96,101.73
+P042,Tata Snacks Pack 42,Tata,snacks,Tamil Nadu,False,False,55.23,24,1317.96,45.81,80.53
+P043,Dabur Beverages Pack 43,Dabur,beverages,Kerala,False,False,96.74,24,2349.63,56.45,151.35
+P044,AnwarBrand Cleaning Supplies Pack 44,AnwarBrand,cleaning supplies,Kashmir,False,False,137.99,10,1359.38,20.66,166.5
+P045,Sunfeast Personal Care Pack 45,Sunfeast,personal care,Goa,False,False,163.39,10,1701.79,28.48,209.92
+P046,Tata Chocolates Pack 46,Tata,chocolates,Dubai,False,False,142.45,6,877.56,37.73,196.2
+P047,Dubai Delights Biscuits Pack 47,Dubai Delights,biscuits,Kashmir,False,False,22.83,10,237.95,47.12,33.59
+P048,Tata Dry Fruits Pack 48,Tata,dry fruits,Dubai,False,False,187.61,30,5595.95,41.71,265.86
+P049,Dabur Honey Pack 49,Dabur,honey,Local India,False,False,303.55,6,1796.64,31.18,398.2
+P050,AnwarBrand Spices Pack 50,AnwarBrand,spices,Goa,False,False,36.26,12,445.82,23.1,44.64
+P051,MDH Snacks Pack 51,MDH,snacks,Local India,True,False,65.11,6,385.91,23.9,80.67
+P052,MDH Beverages Pack 52,MDH,beverages,Kerala,True,False,57.89,30,1772.78,7.96,62.5
+P053,AnwarBrand Cleaning Supplies Pack 53,AnwarBrand,cleaning supplies,Kerala,True,False,116.39,6,728.32,9.2,127.1
+P054,Maggi Personal Care Pack 54,Maggi,personal care,Kerala,True,False,68.72,50,3601.51,19.99,82.46
+P055,Singapore Foods Inc Chocolates Pack 55,Singapore Foods Inc,chocolates,Kerala,True,False,63.6,12,795.02,5.5,67.1
+P056,LocalFarm Biscuits Pack 56,LocalFarm,biscuits,Goa,True,False,51.51,20,1028.84,20.75,62.2
+P057,Singapore Foods Inc Dry Fruits Pack 57,Singapore Foods Inc,dry fruits,Singapore,True,False,256.26,20,5315.66,14.21,292.67
+P058,Britannia Honey Pack 58,Britannia,honey,Kerala,True,False,113.11,20,2280.05,10.57,125.07
+P059,LocalFarm Spices Pack 59,LocalFarm,spices,Kashmir,True,False,56.1,50,2882.32,21.87,68.37
+P060,AnwarBrand Snacks Pack 60,AnwarBrand,snacks,Goa,True,False,33.23,24,791.54,24.25,41.29
+P061,AnwarBrand Beverages Pack 61,AnwarBrand,beverages,Goa,True,False,65.71,50,3299.29,20.73,79.33
+P062,Tata Cleaning Supplies Pack 62,Tata,cleaning supplies,Local India,True,False,213.73,10,2152.18,16.53,249.06
+P063,AnwarBrand Personal Care Pack 63,AnwarBrand,personal care,Goa,True,False,137.8,6,840.35,21.13,166.92
+P064,Hershey Chocolates Pack 64,Hershey,chocolates,Kerala,True,False,89.4,30,2745.35,18.27,105.73
+P065,Kellogg's Biscuits Pack 65,Kellogg's,biscuits,Kashmir,True,False,50.4,24,1241.88,11.52,56.21
+P066,Sunfeast Dry Fruits Pack 66,Sunfeast,dry fruits,Tamil Nadu,True,False,182.65,50,9382.84,23.06,224.77
+P067,Nestle Honey Pack 67,Nestle,honey,Goa,True,False,226.35,6,1359.83,9.2,247.17
+P068,Tata Spices Pack 68,Tata,spices,Tamil Nadu,True,False,83.14,100,8404.83,18.51,98.53
+P069,Everest Snacks Pack 69,Everest,snacks,Tamil Nadu,True,False,69.86,12,860.22,10.68,77.32
+P070,Hershey Beverages Pack 70,Hershey,beverages,Tamil Nadu,True,False,64.09,20,1316.53,9.49,70.17
+P071,Sunfeast Cleaning Supplies Pack 71,Sunfeast,cleaning supplies,Kerala,True,False,75.52,20,1584.22,17.23,88.53
+P072,Everest Personal Care Pack 72,Everest,personal care,Kashmir,True,False,104.25,20,2148.14,12.68,117.47
+P073,Maggi Chocolates Pack 73,Maggi,chocolates,Kerala,True,False,114.01,10,1179.42,9.38,124.7
+P074,Everest Biscuits Pack 74,Everest,biscuits,Tamil Nadu,True,False,19.81,20,413.72,7.43,21.28
+P075,Maggi Dry Fruits Pack 75,Maggi,dry fruits,Dubai,True,False,272.22,30,8546.37,22.83,334.37
+P076,Nestle Honey Pack 76,Nestle,honey,Tamil Nadu,False,True,287.4,100,29970.2,47.18,423.0
+P077,Everest Spices Pack 77,Everest,spices,Local India,False,True,54.66,20,1135.61,23.87,67.71
+P078,Everest Snacks Pack 78,Everest,snacks,Tamil Nadu,False,True,60.84,24,1475.92,45.68,88.63
+P079,Dabur Beverages Pack 79,Dabur,beverages,Kerala,False,True,90.27,10,893.39,21.56,109.73
+P080,Kellogg's Cleaning Supplies Pack 80,Kellogg's,cleaning supplies,Kerala,False,True,102.81,50,5184.36,37.13,140.98
+P081,AnwarBrand Personal Care Pack 81,AnwarBrand,personal care,Local India,False,True,80.58,50,4058.26,48.49,119.65
+P082,Singapore Foods Inc Chocolates Pack 82,Singapore Foods Inc,chocolates,Kashmir,False,True,132.54,50,6715.73,57.14,208.27
+P083,LocalFarm Biscuits Pack 83,LocalFarm,biscuits,Goa,False,True,32.04,50,1630.32,46.73,47.01
+P084,Everest Dry Fruits Pack 84,Everest,dry fruits,Kerala,False,True,189.93,50,9629.4,29.44,245.85
+P085,Kellogg's Honey Pack 85,Kellogg's,honey,Local India,False,True,143.65,100,15002.35,59.04,228.46
+P086,AnwarBrand Spices Pack 86,AnwarBrand,spices,Tamil Nadu,False,True,101.3,6,599.22,31.43,133.14
+P087,Sunfeast Snacks Pack 87,Sunfeast,snacks,Local India,False,True,29.72,50,1490.33,32.73,39.45
+P088,LocalFarm Beverages Pack 88,LocalFarm,beverages,Goa,False,True,149.0,24,3692.72,51.6,225.88
+P089,Singapore Foods Inc Cleaning Supplies Pack 89,Singapore Foods Inc,cleaning supplies,Goa,False,True,83.79,6,519.04,12.6,94.35
+P090,Britannia Personal Care Pack 90,Britannia,personal care,Goa,False,True,131.12,6,812.52,57.48,206.49
+P091,Tata Chocolates Pack 91,Tata,chocolates,Singapore,False,True,62.63,12,761.44,15.72,72.48
+P092,Everest Biscuits Pack 92,Everest,biscuits,Kerala,False,True,43.18,30,1284.71,40.36,60.61
+P093,LocalFarm Dry Fruits Pack 93,LocalFarm,dry fruits,Kashmir,False,True,348.3,24,8255.27,11.28,387.59
+P094,Nestle Honey Pack 94,Nestle,honey,Local India,False,True,311.36,20,6135.78,44.53,450.01
+P095,Royal Spices Pack 95,Royal,spices,Kerala,False,True,86.2,24,2150.56,40.02,120.7
+P096,LocalFarm Snacks Pack 96,LocalFarm,snacks,Kashmir,False,True,80.13,6,482.85,31.42,105.31
+P097,Royal Beverages Pack 97,Royal,beverages,Goa,False,True,108.64,30,3196.9,31.0,142.32
+P098,Royal Cleaning Supplies Pack 98,Royal,cleaning supplies,Local India,False,True,134.43,30,4131.67,51.44,203.58
+P099,Nestle Personal Care Pack 99,Nestle,personal care,Kerala,False,True,77.08,24,1892.68,55.98,120.23
+P100,Nestle Chocolates Pack 100,Nestle,chocolates,Local India,False,True,127.27,24,3062.3,22.27,155.61

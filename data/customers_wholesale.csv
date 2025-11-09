@@ -1,0 +1,51 @@
+customer_id,store_name,contact_person,location_city,location_state,address,pincode,mobile_number,gst_number,customer_type
+C001,Sunrise Foods,Vikram N.,Goa,Goa,"584 Main Road, Goa",810646,7627746667,CHBHC9ALVKI68EJ,Hotel
+C002,Lotus Foods,Pooja K.,Lucknow,Uttar Pradesh,"96 Market Road, Lucknow",342360,7736889606,OBKHJFQBP99464J,Kirana Store
+C003,Shree Kirana,Suresh N.,Kolkata,West Bengal,"284 Industrial Area, Kolkata",728226,9265068044,IA36860J9ZJP4VH,Supermarket
+C004,Sunrise Foods,Amit N.,Kochi,Kerala,"349 Station Road, Kochi",163872,7084386400,XHTE2M15KAZ4RLS,Hotel
+C005,Grand Foods,Amit S.,Patna,Bihar,"881 Main Road, Patna",559660,7311598149,K2Y3RM928J5EOG1,Small Retailer
+C006,Lotus Mart,Rohan R.,Coimbatore,Tamil Nadu,"947 Market Road, Coimbatore",936097,9398383187,MNXFJNWT25BQKA4,Kirana Store
+C007,Grand Supermarket,Karan M.,Coimbatore,Tamil Nadu,"506 Park Street, Coimbatore",194349,8568547910,1FB93YUKYZO91RG,Kirana Store
+C008,Sunrise Kirana,Deepa N.,Nagpur,Maharashtra,"651 Park Street, Nagpur",205674,8018679284,CBOUBOAYTJGBBYE,Restaurant
+C009,Lotus Foods,Ravi R.,Chennai,Tamil Nadu,"531 Market Road, Chennai",762878,9248898619,HF194AVH1MSPB0E,Hotel
+C010,Lotus Mart,Rohan R.,Pune,Maharashtra,"511 Industrial Area, Pune",416039,8185588660,PEHGG56LQ42RUCS,Small Retailer
+C011,Sunrise Supermarket,Deepa M.,Chennai,Tamil Nadu,"676 Park Street, Chennai",265813,7917906456,JCJJGB6PK8R1QPT,Distributor
+C012,Lotus Mart,Priya M.,Delhi,Delhi,"989 Main Road, Delhi",458121,9735334423,3U3W05VY2S9ME2B,Kirana Store
+C013,Grand Supermarket,Rohan N.,Indore,Madhya Pradesh,"894 Main Road, Indore",147642,8651968205,2MXZQF3MVFOW1SA,Small Retailer
+C014,City Kirana,Karan N.,Jaipur,Rajasthan,"580 Industrial Area, Jaipur",941016,6773338452,62VM8W5G990SWO5,Distributor
+C015,Sunrise Foods,Suresh S.,Visakhapatnam,Andhra Pradesh,"468 Market Road, Visakhapatnam",318894,7652244897,U3DCAP0TE0VSZWQ,Small Retailer
+C016,Park Kirana,Rohan R.,Ahmedabad,Gujarat,"636 Market Road, Ahmedabad",820687,9245179885,PNUMWNBFKQ3AQ64,Restaurant
+C017,Sunrise Kirana,Rahul N.,Visakhapatnam,Andhra Pradesh,"991 Market Road, Visakhapatnam",892824,9738326480,C4Y5YUQZYSDS0JG,Kirana Store
+C018,Grand Supermarket,Anjali R.,Surat,Gujarat,"483 MG Road, Surat",759641,9797759723,XBLNMGPN411Z48J,Distributor
+C019,Park Store,Sonia M.,Nagpur,Maharashtra,"761 Industrial Area, Nagpur",272029,9802823261,E3HEY1DFYU3OJZC,Distributor
+C020,Shree Mart,Amit K.,Surat,Gujarat,"679 Station Road, Surat",782875,8746601166,L0S84K2R77VB5W0,Hotel
+C021,Sunrise Kirana,Anjali K.,Delhi,Delhi,"135 MG Road, Delhi",485644,9392958303,SL094F42GDLG7MQ,Kirana Store
+C022,Sunrise Foods,Rohan K.,Patna,Bihar,"63 Park Street, Patna",998456,7724932977,F3PFWB54MLPDLAI,Distributor
+C023,Royal Store,Suresh R.,Pune,Maharashtra,"441 Park Street, Pune",349592,7777315761,CGE3FND5X2T33QT,Restaurant
+C024,Park Mart,Sonia S.,Bangalore,Karnataka,"895 Industrial Area, Bangalore",896730,7816499958,VPYLCK7N83UDRKT,Restaurant
+C025,Green Store,Rohan S.,Thiruvananthapuram,Kerala,"30 Station Road, Thiruvananthapuram",396544,9018068234,RXC65N2QY3JDG5B,Small Retailer
+C026,Royal Mart,Priya R.,Kochi,Kerala,"773 Main Road, Kochi",162179,8894673596,2FFLE7IC3OLIB7Z,Supermarket
+C027,Shree Supermarket,Vikram R.,Chennai,Tamil Nadu,"783 Market Road, Chennai",413507,7409274786,4HF4J8KOCEQFG2B,Distributor
+C028,Grand Foods,Rahul K.,Kochi,Kerala,"415 MG Road, Kochi",450544,6738189691,SMTX3U8LIEBCB6I,Supermarket
+C029,Shree Supermarket,Neha R.,Patna,Bihar,"242 MG Road, Patna",263557,7099375147,7LRN6RHRRGXKMMV,Kirana Store
+C030,City Foods,Anjali N.,Madurai,Tamil Nadu,"453 Industrial Area, Madurai",427530,9420209944,92IBG2T2VUMIGJS,Supermarket
+C031,Shree Supermarket,Deepa N.,Nagpur,Maharashtra,"514 Station Road, Nagpur",174879,7934982045,3WCPI68FFI5DAEC,Restaurant
+C032,Park Mart,Neha K.,Bangalore,Karnataka,"572 Industrial Area, Bangalore",515341,7220401982,9UYL52NXBNN4P3K,Kirana Store
+C033,City Store,Anjali N.,Madurai,Tamil Nadu,"521 Market Road, Madurai",129116,7557345129,BYCR6Z5ASIJQINV,Restaurant
+C034,Grand Kirana,Priya R.,Delhi,Delhi,"852 Industrial Area, Delhi",918554,8683239935,T5FEO8FAQGJBTGU,Small Retailer
+C035,Lotus Foods,Pooja S.,Kochi,Kerala,"797 Park Street, Kochi",637335,8265422548,F57LV1HDXPI435G,Restaurant
+C036,Grand Mart,Vikram N.,Delhi,Delhi,"906 Market Road, Delhi",137965,7781968664,1I8ZD1XUNS4ATP4,Kirana Store
+C037,Lotus Store,Ravi K.,Lucknow,Uttar Pradesh,"20 Market Road, Lucknow",336130,9586139213,5XLFR848NM2UHJM,Restaurant
+C038,City Supermarket,Sonia K.,Ahmedabad,Gujarat,"630 Market Road, Ahmedabad",362249,8450982005,EN3Z2IIZJEGMZ90,Supermarket
+C039,Shree Mart,Pooja M.,Visakhapatnam,Andhra Pradesh,"753 Market Road, Visakhapatnam",249890,6190420322,CCNTOZH64PX17SV,Small Retailer
+C040,Grand Store,Amit S.,Coimbatore,Tamil Nadu,"38 Industrial Area, Coimbatore",310386,7228836941,CSVB4DWQWDZHHXI,Supermarket
+C041,Royal Foods,Deepa R.,Jaipur,Rajasthan,"559 Market Road, Jaipur",446814,6440654676,2NBLFOC1VCZ9ZY2,Kirana Store
+C042,Park Store,Pooja R.,Bhopal,Madhya Pradesh,"976 MG Road, Bhopal",259715,9645006924,LS12SDDKLOYDRKJ,Distributor
+C043,Sunrise Kirana,Anjali K.,Madurai,Tamil Nadu,"754 Station Road, Madurai",633285,8223699008,DK99GZAWH4UGWG3,Kirana Store
+C044,Park Mart,Karan M.,Madurai,Tamil Nadu,"298 Market Road, Madurai",275156,9057196804,PP6D8ZS8HCKGZ4V,Supermarket
+C045,Grand Foods,Karan N.,Coimbatore,Tamil Nadu,"788 Park Street, Coimbatore",973333,8469178881,2ZNGOCVSN6YFW14,Hotel
+C046,City Kirana,Neha R.,Coimbatore,Tamil Nadu,"355 Main Road, Coimbatore",407846,9633257620,27Y9MM3NLK6MWCX,Supermarket
+C047,Royal Mart,Rohan M.,Chennai,Tamil Nadu,"272 Industrial Area, Chennai",331048,9294063811,KM1WJNA8TEGO5EG,Small Retailer
+C048,City Supermarket,Suresh S.,Thiruvananthapuram,Kerala,"752 Market Road, Thiruvananthapuram",528084,6561636336,RI384G51YVFYWTX,Kirana Store
+C049,Shree Kirana,Amit M.,Madurai,Tamil Nadu,"479 Park Street, Madurai",433528,8136189070,0YIY7C1HVNGJUFV,Kirana Store
+C050,Grand Supermarket,Ravi N.,Visakhapatnam,Andhra Pradesh,"53 Main Road, Visakhapatnam",699107,6836038153,DADGJTML43DZKD5,Restaurant
